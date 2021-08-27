@@ -1,3 +1,5 @@
+<img src="reddit-banner-beige.jpg" />
+
 # Hello!
 
 I'm a Staff Engineer at [Reddit](https://github.com/reddit). I previously worked at Amazon. There, I helped create the [Amplify Android](https://github.com/aws-amplify/amplify-android) project, worked on [Alexa's Android app](https://play.google.com/store/apps/details?id=com.amazon.dee.app), and contributed to the [AWS' Simple Systems Manager (SSM)](https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-automation.html) launch.
